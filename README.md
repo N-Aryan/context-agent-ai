@@ -1,4 +1,3 @@
-````markdown
 # Context Agent AI
 
 Context-aware RAG assistant for semantic retrieval, document understanding, and AI-powered contextual search using FastAPI, LangChain, and vector databases.
