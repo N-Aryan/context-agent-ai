@@ -157,7 +157,6 @@ pip install -r requirements.txt
 ```bash
 python start.py
 ```
-
 ---
 
 # Future Improvements
